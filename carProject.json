@@ -1,0 +1,92 @@
+[
+    {
+        "model" : "RS8",
+        "marka" : "AUDİ",
+        "yil" : "2021",
+        "km" : "10000 KM",
+        "motor" : "İyi",
+        "vites" : "Otomatik",
+        "gorsel" : "https://raw.githubusercontent.com/OzcanTEKDAL01/car-Project/refs/heads/master/audi.png"
+    },
+    {
+        "model" : "M8",
+        "marka" : "BMW",
+        "yil" : "2024",
+        "km" : "1000 KM",
+        "motor" : "Çok İyi",
+        "vites" : "Otomatik",
+        "gorsel" : "https://raw.githubusercontent.com/OzcanTEKDAL01/car-Project/refs/heads/master/BMW-M8.png"
+    },
+    {
+        "model" : "Corolla",
+        "marka" : "Toyota",
+        "yil" : "2020",
+        "km" : "38000 KM",
+        "motor" : "Ortalama",
+        "vites" : "Manuel",
+        "gorsel" : "https://raw.githubusercontent.com/OzcanTEKDAL01/car-Project/refs/heads/master/corolla.png"
+    },
+    {
+        "model" : "Doblo",
+        "marka" : "Fiat",
+        "yil" : "2024",
+        "km" : "13000 KM",
+        "motor" : "Çok İyi",
+        "vites" : "Manuel",
+        "gorsel" : "https://raw.githubusercontent.com/OzcanTEKDAL01/car-Project/refs/heads/master/doblo.png"
+    },
+    {
+        "model" : "Egea",
+        "marka" : "Fiat",
+        "yil" : "2023",
+        "km" : "24000 KM",
+        "motor" : "Ortalama",
+        "vites" : "Yarı-Otomatik",
+        "gorsel" : "https://raw.githubusercontent.com/OzcanTEKDAL01/car-Project/refs/heads/master/egea.png"
+    },
+    {
+        "model" : "Focus",
+        "marka" : "Ford",
+        "yil" : "2025",
+        "km" : "500 KM",
+        "motor" : "Süper",
+        "vites" : "Otomatik",
+        "gorsel" : "https://raw.githubusercontent.com/OzcanTEKDAL01/car-Project/refs/heads/master/ford.png"
+    },
+    {
+        "model" : "Renegade",
+        "marka" : "Jeep",
+        "yil" : "2025",
+        "km" : "0 KM",
+        "motor" : "Süper",
+        "vites" : "Otomatik",
+        "gorsel" : "https://raw.githubusercontent.com/OzcanTEKDAL01/car-Project/refs/heads/master/jeep.png"
+    },
+    {
+        "model" : "Maserati",
+        "marka" : "Quratroporte",
+        "yil" : "2018",
+        "km" : "30000 KM",
+        "motor" : "Ortalama",
+        "vites" : "Otomatik",
+        "gorsel" : "https://raw.githubusercontent.com/OzcanTEKDAL01/car-Project/refs/heads/master/maserati.png"
+    },
+    {
+        "model" : "Mercedes",
+        "marka" : "AMG",
+        "yil" : "2019",
+        "km" : "21000 KM",
+        "motor" : "Kötü",
+        "vites" : "Otomatik",
+        "gorsel" : "https://raw.githubusercontent.com/OzcanTEKDAL01/car-Project/refs/heads/master/mercedes.png"
+    },
+    {
+        "model" : "XC90",
+        "marka" : "Volvo",
+        "yil" : "2025",
+        "km" : "0 KM",
+        "motor" : "Süper",
+        "vites" : "Otomatik",
+        "gorsel" : "http://raw.githubusercontent.com/OzcanTEKDAL01/car-Project/refs/heads/master/volvo.png"
+    }
+]
